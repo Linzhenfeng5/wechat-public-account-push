@@ -18,7 +18,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
+   *    useTemplateId: "Sl_NUC-DKVJGbQZIJUyeQuAYOrcdTsN3xcKJu0VMisU",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -31,14 +31,14 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
+      useTemplateId: "Sl_NUC-DKVJGbQZIJUyeQuAYOrcdTsN3xcKJu0VMisU",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.bilibili.com/"
     }, 
     {
       name: "老婆1", 
       id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
-      useTemplateId: "89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
+      useTemplateId: "Sl_NUC-DKVJGbQZIJUyeQuAYOrcdTsN3xcKJu0VMisU",
       openUrl: "https://baidu.com"
     }, 
     {
@@ -93,7 +93,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "宝贝", "year": "2004", "date": "11-06"},
-    {"type": "节日", "name": "在一起", "year": "2022", "date": "7-12"},
+    {"type": "节日", "name": "下一次见面", "year": "2022", "date": "9-17"},
   ],
 
   /**
@@ -113,7 +113,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2022-07-12"},
     // 结婚纪念日
-    //{"keyword": "marry_day", date: "2020-01-04"},
+    {"keyword": "marry_day", date: "2020-09-04"},
     // 退伍日, 不用可以删掉
     //{"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
@@ -131,12 +131,12 @@ export const config = {
     // 这样配置的话，就会每次发送这句话
     {"keyword": "encourage_oneself", contents: "今天也超级喜欢你"},
     // 这样配置的话，就会每次随机选一句话发送
-    {"keyword": "lover_prattle", contents: [
-      "因为太喜欢你，所以看谁都像是情敌。",
-      "申请成为你爱里的永久居民。",
-      "你很傻，你很笨，可我还是很羡慕你，因为你有我",
-      "遇见你，就好像捡到了100斤的运气",
-    ]},
+     //{"keyword": "lover_prattle", contents: [
+     // "因为太喜欢你，所以看谁都像是情敌。",
+      //"申请成为你爱里的永久居民。",
+    //  "你很傻，你很笨，可我还是很羡慕你，因为你有我",
+     // "遇见你，就好像捡到了100斤的运气",
+    //]},
   ],
 
   /** 每日一言 */
