@@ -7,7 +7,7 @@ export const config = {
   APP_ID: "wx82ef18af3c05bb86",
 
   // 公众号APP_SECRET
-  APP_SECRET: "5cb9cb02e6ed66d7d31083404285691d",
+  APP_SECRET: "771bb0921eb375206573fe7546107b72",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -27,18 +27,18 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
+      name: "老婆1",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ohxO123O6Vsk2Yv0Kuf-ywIZ3VRMpuXhk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zjVglIuC2Xo4CsraXWEio1iP7sZJ37IQEES9lD3sgc4yOU",
+      useTemplateId: " 	89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.bilibili.com/"
     }, 
     {
       name: "老婆1", 
       id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
-      useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
+      useTemplateId: " 	89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
       openUrl: "https://baidu.com"
     }, 
     {
@@ -79,9 +79,9 @@ export const config = {
   /** 天气相关 */
 
   // 所在省份
-  PROVINCE: "广东",
+  PROVINCE: "广东省",
   // 所在城市
-  CITY: "东莞",
+  CITY: "东莞市",
 
   /** 重要节日相关 */
 
