@@ -29,7 +29,7 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆1",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxO123O6Vsk2Yv0Kuf-ywIZ3VRMpuXhk",
+      id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -37,19 +37,19 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
+      id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
       useTemplateId: "89WzKYIB2oJLukHYHSQlcxyWm7SviPkxYV7OrCootX4",
       openUrl: "https://baidu.com"
     }, 
     {
       name: "老婆2",
-      id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
+      id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk",
       useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
       openUrl: "https://weibo.com"
     }, 
     {
       name: "老婆3", 
-      id: "ohxOO63VskYv0Kuf-ywIZV3RMpuXhk", 
+      id: "oHb9j6LkQJg-J-TzxN7a_iZbmiDk", 
       useTemplateId: "Wue80GrtY1nA3ia4tam-FDxZF9WNx9pw3cBc0LMpANnu8",
       openUrl: "https://wangxinleo.cn"
     }, 
